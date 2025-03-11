@@ -1,4 +1,3 @@
-#include <Arduino.h>
 
 // ขา SenSor
 #define SENSOR1 8
